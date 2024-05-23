@@ -2,13 +2,13 @@
     border: none;
     border-radius: 0px;
     font-family: Roboto Mono SemiBold, Iosevka Nerd Font;
-    font-size: 18px;
+    font-size: 13px;
     font-style: normal;
     min-height: 0;
 	}
 
 window#waybar {
-    background: rgba(76,86,106,0.8);
+    background: rgba(76,86,106,0.3);
     color: #cdd6f4
 }
 
